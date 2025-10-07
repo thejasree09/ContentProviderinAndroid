@@ -196,10 +196,12 @@ AndroidManifest.xml
 
 <img width="1919" height="1079" alt="Untitled design (18)" src="https://github.com/user-attachments/assets/b97c4ff0-5739-4a31-a844-2fac599defd5" />
 
-<img width="1919" height="1079" alt="Untitled design (19)" src="https://github.com/user-attachments/assets/635d7c6d-8d35-48c9-9535-15f1802e0fa9" />
+![WhatsApp Image 2025-09-03 at 09 47 21_840a7091](https://github.com/user-attachments/assets/6aaf1817-3093-4db5-ac83-e4ab1dbb0564)
+
 
 
 
 
 ## RESULT
 Thus a Simple Android Application create your own content providers to get contacts details using Android Studio is developed and executed successfully.
+
